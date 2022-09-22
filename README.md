@@ -8,11 +8,11 @@
 - Introduce
 - [백준] 17144 미세먼지 안녕!
 
-## 2. [Math]()
+## 2. [Math](https://github.com/choiish98/PS/tree/main/Math)
 - 모듈러의 곱셈 역원
 - 페르마의 소정리
 - [백준] 11401 이항계수 3
 
-## 3. [divide and conquer]()
+## 3. [divide and conquer](https://github.com/choiish98/PS/tree/main/Divide%20and%20Conquer)
 - Introduce
 - [백준] 11401 이항계수 3
