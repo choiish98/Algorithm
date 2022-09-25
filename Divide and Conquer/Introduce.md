@@ -62,4 +62,4 @@ int f(int x) {
 
 - [wiki](https://ko.wikipedia.org/wiki/분할_정복_알고리즘)
 - [exp_blog](https://syujisu.tistory.com/entry/동적-계획법-Dynamic-Programming과-분할-정복-Divide-and-Conquer-알고리즘)
-- [그릿 속의 해빗](
+- [그릿 속의 해빗](https://loosie.tistory.com/237)
