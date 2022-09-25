@@ -16,3 +16,5 @@
 ## 3. [divide and conquer](https://github.com/choiish98/PS/tree/main/Divide%20and%20Conquer)
 - Introduce
 - [백준] 11401 이항계수 3
+- [백준] 11444 피보나치 수 6
+- [백준] 2247 별 찍기 10
