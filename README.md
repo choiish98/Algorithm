@@ -4,18 +4,21 @@
 
 ```🧠컴퓨팅 사고를 멈추지 않기🦾```
 
-## 1. [Simulation](https://github.com/choiish98/PS/tree/main/Simulation)
-- Introduce
-- [백준] 17144 미세먼지 안녕!
-
-## 2. [Math](https://github.com/choiish98/PS/tree/main/Math)
+## 1. [Math](https://github.com/choiish98/PS/tree/main/Math)
 - 모듈러의 곱셈 역원
 - 유클리드 호제
 - [백준] 11401 이항계수 3
 
-## 3. [divide and conquer](https://github.com/choiish98/PS/tree/main/Divide%20and%20Conquer)
+## 2. [Divide and Conquer](https://github.com/choiish98/PS/tree/main/Divide%20and%20Conquer)
 - Introduce
 - [백준] 10830 행렬 제곱
 - [백준] 11444 피보나치 수 6
 - [백준] 2247 별 찍기 10
 - [백준] 11401 이항계수 3
+
+## 3. [Graph Search](https://github.com/choiish98/PS/tree/main/Graph%20Search)
+- DFS
+- BFS
+    - [백준] 9019 DSLR
+- Dijkstra
+    - [백준] 14938 서강그라운드
