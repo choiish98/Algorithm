@@ -1,4 +1,5 @@
 # Graph Search
+# Divide and Conquer
 **그래프 탐색**
 
 - [DFS](https://github.com/choiish98/PS/tree/main/Graph%20Search/DFS.md)

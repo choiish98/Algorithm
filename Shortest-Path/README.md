@@ -2,6 +2,8 @@
 
 **최단 경로 알고리즘**
 
+1. [Shortest Path](https://github.com/choiish98/PS/tree/main/Shortest-Path/Shortest%20Path.md)
+
 1. [Dijkstra](https://github.com/choiish98/PS/tree/main/Shortest-Path/Dijkstra.md)
 
 2. [Bellman-Ford-Moore](https://github.com/choiish98/PS/tree/main/Shortest-Path/Bellman-Ford-Moore.md)
