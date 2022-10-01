@@ -9,6 +9,7 @@
 Github Repo Root
  |---- Parent Algorithm          
         |---- Definition of Parent Algorithm's type
+        |---- Implementation
         |---- Example in easy order with in use algorithm
  |---- Baekjoon
         |---- Problem from Backjoon Online jugde
