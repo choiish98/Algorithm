@@ -2,23 +2,32 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=one9119)](https://solved.ac/one9119/)
 
-```🧠컴퓨팅 사고를 멈추지 않기🦾```
+```🧠 컴퓨팅 사고를 멈추지 않기 🦾```
+
+## Repo Structure
+```
+Github Repo Root
+ |---- Parent Algorithm          
+        |---- Definition of Parent Algorithm's type
+        |---- Example in easy order with in use algorithm
+ |---- Baekjoon
+        |---- Problem from Backjoon Online jugde
+```
 
 ## 1. [Math](https://github.com/choiish98/PS/tree/main/Math)
-- 모듈러의 곱셈 역원
-- 유클리드 호제
-- [백준] 11401 이항계수 3
+- Modular multiplicative inverse
+- Euclidean algorithm
 
 ## 2. [Divide and Conquer](https://github.com/choiish98/PS/tree/main/Divide%20and%20Conquer)
-- Introduce
-- [백준] 10830 행렬 제곱
-- [백준] 11444 피보나치 수 6
-- [백준] 2247 별 찍기 10
-- [백준] 11401 이항계수 3
+- Divide and Conquer
 
 ## 3. [Graph Search](https://github.com/choiish98/PS/tree/main/Graph%20Search)
 - DFS
 - BFS
-    - [백준] 9019 DSLR
+
+## 4. [Shortest Path](https://github.com/choiish98/PS/tree/main/Shortest%20Path)
 - Dijkstra
-    - [백준] 14938 서강그라운드
+- Bellman-Ford-Moore
+- Floyd-Warshall
+
+## 5. [Baekjoon](https://github.com/choiish98/PS/tree/main/Shortest%20Path)
