@@ -26,7 +26,7 @@ Github Repo Root
 - DFS
 - BFS
 
-## 4. [Shortest Path](https://github.com/choiish98/PS/tree/main/Shortest%20Path)
+## 4. [Shortest Path](https://github.com/choiish98/PS/tree/main/Shortest-Path)
 - Dijkstra
 - Bellman-Ford-Moore
 - Floyd-Warshall
