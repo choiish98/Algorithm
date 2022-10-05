@@ -13,6 +13,8 @@ Github Repo Root
         |---- Example in easy order with in use algorithm
  |---- Baekjoon
         |---- Problem from Backjoon Online jugde
+ |---- Softeer
+        |---- Problem from Softeer (Hyundai Motor)
 ```
 
 ## 1. [Math](https://github.com/choiish98/PS/tree/main/Math)
@@ -31,4 +33,12 @@ Github Repo Root
 - Bellman-Ford-Moore
 - Floyd-Warshall
 
-## 5. [Baekjoon](https://github.com/choiish98/PS/tree/main/Shortest%20Path)
+## 5. [Dynamic Programming](https://github.com/choiish98/PS/tree/main/DP)
+- DP
+- LCS
+- knapsack
+- bin-packing
+
+## 6. [Baekjoon](https://github.com/choiish98/PS/tree/main/Baekjoon)
+
+## 7. [Softeer](https://github.com/choiish98/PS/tree/main/Softeer)
