@@ -6,4 +6,5 @@
 - [knapsack](https://github.com/choiish98/PS/tree/main/Graph%20Search/knapsack.md)
 - [bin-packing](https://github.com/choiish98/PS/tree/main/Graph%20Search/bin-packing.md)
 - Example
-    - [[Softeer] 비밀 메뉴 2](https://github.com/choiish98/PS/tree/main/Baejoon/[백준]%209019%20DSLR.md) - DP
+    - [[백준] 14051 퇴사](https://github.com/choiish98/PS/tree/main/Baejoon/%5b백준%5b%2014051%20퇴사.md) - Broute Force, DP
+    - [[Softeer] 비밀 메뉴 2](https://github.com/choiish98/PS/tree/main/Softeer/%5bSofteer%5b%20비밀%20메뉴%202.md) - DP
