@@ -43,6 +43,13 @@ Github Repo Root
 - Merge
 - Quick
 
-## 6. [Baekjoon](https://github.com/choiish98/PS/tree/main/Baekjoon)
+## 7. [Pattern Matching](https://github.com/choiish98/PS/tree/main/Pattern%20Matching)
+- brute-force
+- Automata 
+- Rabin-Karp 
+- KMP
+- Boyer-Moore
 
-## 7. [Softeer](https://github.com/choiish98/PS/tree/main/Softeer)
+## 8. [Baekjoon](https://github.com/choiish98/PS/tree/main/Baekjoon)
+
+## 9. [Softeer](https://github.com/choiish98/PS/tree/main/Softeer)
