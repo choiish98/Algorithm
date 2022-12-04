@@ -39,6 +39,10 @@ Github Repo Root
 - knapsack
 - bin-packing
 
+## 6. [Sort](https://github.com/choiish98/PS/tree/main/Sort)
+- Merge
+- Quick
+
 ## 6. [Baekjoon](https://github.com/choiish98/PS/tree/main/Baekjoon)
 
 ## 7. [Softeer](https://github.com/choiish98/PS/tree/main/Softeer)
