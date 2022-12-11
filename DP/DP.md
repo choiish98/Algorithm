@@ -2,7 +2,15 @@
 
 <br>
 
-## Matrix Chain Product
+## Matrix Chain Multiplication
+
+> when A = 20 x 2, B = 2 x 30, C = 30 x 12, D = 12 x 8,
+>
+> what is A * B * C * D = ?
+>
+> no matter order, conclusion is always same.
+>
+> so we need to find optimal way.
 
 <br>
 
@@ -88,7 +96,7 @@
 
   - Recall that `Ai` is a `di * di+1` dimensional matrix.
 
-  - So, a characterizing equation for `Ni,j` is the following.
+  - So, a characterizing equation for `Ni,j` is the following:
 
     ![3]()
 
@@ -118,22 +126,50 @@
 
 ### Pseudo-Code
 
-```
+```pseudocode
 Algorithm matrixChain(S):
 	Input: sequence S of n matrices to be multiplied
 	Output: number of operations in an optimal paranethization of S
 
 	for i <- 1 to n-1 do
-		Ni,i <- 0
-	for b <- 1 to n-1 do
-		for i <- 0 to n-b-1 do
-			j <- i+b
+		Ni,i <- 0 					// table 초기화
+	for b <- 1 to n-1 do			// 비교할 길이
+		for i <- 0 to n-b-1 do		// 0부터 n-1까지 비교할 길이만큼
+			j <- i+b				// 비교할 길이만큼의 j
 			Ni,j <- +infinity
-			for k <- i to j-1 do
+			for k <- i to j-1 do	// 비교할 대상의 최대 k 찾기
 				Ni,j <- min{Ni,j , Ni,k +Nk+1,j +di dk+1 dj+1}
 ```
 
 <br>
+
+## Example
+
+**What is the best way to multiply a chain of matrices with dimensions that are 10×5, 5×2, 2×20, 20×12, 12×4, and 4×60?**
+
+- M1 = 10 * 5, M2 = 5 * 2, M3 = 2 * 20, M4 = 20 * 12, M5 = 12 * 4, M6 = 4 * 60
+- d1 = 10, d2 = 5, d3 = 2, d4= 20, d5 = 12, d6= 4, d7 = 60
+- N[i , j] = N[i, k] + N[k+1, j] + di + dk+1, dj+1
+- B = 1
+  - N[1, 2] = 100
+  - N[2, 3] = 200
+  - N[3, 4] = 480
+  - N[4, 5] = 960
+  - N[5, 6] = 2880
+- B = 2
+  - N[1, 3] = 500
+  - N[2, 4] = 600
+  - N[3, 5] = 576
+  - N[4, 6] = 5760
+- B = 3
+  - N[1, 4] = 820
+  - N[2, 5] = 616
+  - N[3, 6] = 
+- B = 4
+  - N[1, 5] = 816
+  - N[2, 6] = 1655
+- B = 5
+  - N[1, 6] = 2356
 
 <br>
 
