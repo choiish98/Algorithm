@@ -27,6 +27,7 @@ Github Repo Root
 ## 3. [Graph Search](https://github.com/choiish98/PS/tree/main/Graph%20Search)
 - DFS
 - BFS
+- TSP
 
 ## 4. [Shortest Path](https://github.com/choiish98/PS/tree/main/Shortest-Path)
 - Dijkstra
