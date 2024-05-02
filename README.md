@@ -1,9 +1,5 @@
 # PS
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=one9119)](https://solved.ac/one9119/)
-
-```🧠 컴퓨팅 사고를 멈추지 않기 🦾```
-
 ## Repo Structure
 ```
 Github Repo Root
