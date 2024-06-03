@@ -1,5 +1,7 @@
 # PS
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=choiish98)](https://solved.ac/choiish98/)
+
 ## Repo Structure
 ```
 Github Repo Root
